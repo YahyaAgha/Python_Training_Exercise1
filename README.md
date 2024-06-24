@@ -5,5 +5,7 @@ We started with an overview of Python languge and the needed environment to star
 Then we've gone through Data types ( int, float, bool, str, complex, str) 
 and the arithmetice, logic operations.
 
-learned about the Mutable, immutable types as well and difference bewtween them in details (List, set, dict, range, Tuples)
+learned about the Mutable, immutable types as well and the difference bewtween with more details and examples (List, set, dict, range, Tuples).
+
+to be cont ... ..
 
